@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trugreenmonroe.com/sitemap.xml
